@@ -1,0 +1,8 @@
+{
+  "name": "sheerid-verifier-web",
+  "version": "1.0.0",
+  "description": "Web app for SheerID verification",
+  "scripts": {
+    "build": "echo 'Build script not needed'"
+  }
+}
